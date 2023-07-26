@@ -1,0 +1,34 @@
+.container {
+  padding: 75px;
+  margin: 45px auto;
+  width: 65%;
+  box-shadow: 41px 25px 26px 2px rgba(21, 165, 185, 0.4);
+  border: 6px groove rgba(19, 203, 214, 0.4);
+  border-radius: 20px;
+}
+
+.location {
+  padding: 30px;
+  margin: 0 auto;
+  width: 60%;
+  box-shadow: 41px 25px 26px 2px rgba(21, 165, 185, 0.4);
+  border: 6px groove rgba(19, 203, 214, 0.4);
+  border-radius: 20px;
+}
+.search {
+  text-align: center;
+  margin: auto;
+  padding: 30px;
+}
+.row {
+  padding: 35px;
+}
+.weather-content {
+  width: 80%;
+  margin: 25px;
+  text-align: center;
+  padding: 40px;
+  box-shadow: 41px 25px 26px 2px rgba(21, 165, 185, 0.4);
+  border: 6px groove rgba(19, 203, 214, 0.4);
+  border-radius: 20px;
+}
